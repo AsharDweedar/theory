@@ -1,0 +1,41 @@
+##questions :
+```
+[*] What is git? 
+[*] why using it ?
+[*] what version control tools did you use that is based on git ?
+[ ] maybe you should know first what version control systems are ?
+[*] When using git, what exactly do people mean when they talk about “the SHA-1”?
+[*] How does git rebase function compared to git merge?
+```
+
+**What is git? **
+__answer :__ 
+  it's a version controle tool that allow traking all changes in group of files "repository", 
+
+=====================================================
+**why using it ?
+__answer :__ 
+  save all versions of a project so it can be reviewed again , protect changes from being lost upon time and ease of team work by allowing changes tracking to point files differences .. 
+
+=====================================================
+**what version control tools did you use that is based on git ?**
+__answer :__ 
+  1. github
+  2. git-cli  
+
+=====================================================
+**maybe you should know first what version control systems are ?**
+__answer :__ 
+  
+
+=====================================================
+**When using git, what exactly do people mean when they talk about “the SHA-1”?**
+__answer :__ 
+  for each commit, version, tag, relationships between files and directories, a unique hash will be created to point at a spicific version of files at that commit so it can be reffered to as needed using that hash and will be protected from accedential and milicios changes ...  
+
+=====================================================
+**How does git rebase function compared to git merge?**
+__answer :__ 
+  rebase moves the changes with all it's commits to the target branch so all the log will be overwritten to include the new commits while merge will get all changes in files to be but as a new commit at the top of the log of the taarget branch .. basicly rebase is modt common used than merge but mainly merge seems to be easier to undo (friend of beginners) ...
+  
+=====================================================
