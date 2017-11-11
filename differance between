@@ -1,0 +1,16 @@
+
+- whats the difference between compiler and interpreter ?
+  interpriter take the statment and excute it ..
+  compiler takes the whole code and analyze it then excute it ..
+  interpriter faster in analyzeing but slower at excuting ..
+  compiler is slower at analyzing code and faster in excuting ..
+  interpriter is easier to debug because it take statment by statment and stop at any bug it finds
+  compiler is harder to debug because it scan the whole code then sends the error message 
+  
+
+- What’s the difference between encryption and hashing?
++---------------------------------------------+---------------------------------------------------+
+|               hashing                       |                encryption                         |
++---------------------------------------------+---------------------------------------------------+
+|        one way - can't be de-hashed         |          two ways - can be decrypted              |
++-------------------------------------------------------------------------------------------------+
