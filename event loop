@@ -1,0 +1,3 @@
+Theoretical questions:
+- Explain the JavaScript event loop.
+javascript implementation for it's programs depends on passing through operations and excuting them as sync operations , when pumping into async operation/function , it overrides it to the next sync operation an so on, until the whole call stack is excuted, while the skipped async operations get implented when the event fires(ex: click button) or a request recieved-(or response),the data gets passed to the callback function that will handle it, that helps not to hang all operrations till asyn functions gets implemented - thats also called none-blocking because async operations won't prevent other sync ones ...
