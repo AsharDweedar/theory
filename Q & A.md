@@ -1,6 +1,7 @@
 ##questions:
 
 [ ] What is the “same-origin policy”?
+
 [ ] What is Microservices Architecture?
 
 - What is the “same-origin policy”?
