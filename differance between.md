@@ -25,3 +25,10 @@
 | determined by an IP address and port number | 16-bit integer  |
 |  two-way communication link between two programs running on the network | identify a specific process to which a message is to be forwarded  |
 
+What is the difference between primary key and unique constraints?
+Ans: Primary key cannot have NULL value, the unique constraints can have NULL values. There is only one primary key in a table, but there can be multiple unique constrains.
+
+| primary key | unique constraints |
+|---|---|
+| can't be null | can be null |
+| one in the table | can be many in the table |
