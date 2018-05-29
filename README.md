@@ -1,2 +1,2 @@
 # theory
-theoritical questions and answers
+theoretical questions and answers.

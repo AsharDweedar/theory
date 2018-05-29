@@ -1,7 +1,0 @@
-Theoretical questions :
-- What is the difference between multi thread and single thread ? programming languages examples !
-  programs thet works on one operation at atime called single thread - line by line - but when a program can run muliple operations at the same time so called multi thread .. js is an example of single thread programming language and java and python is multi thread programming language
-
-- What is the event loop ?
-  javascript uses it to loop through the programm , excute the sync operations and store all the async operations in a table to be excuted later .. so when the program finishes excuting all sync tasks it will excute task from async table starting from the order as priority then the time if it have spicific time to be run at ..
-  

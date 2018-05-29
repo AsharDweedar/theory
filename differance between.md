@@ -2,7 +2,7 @@
 - whats the difference between compiler and interpreter ?
 
 |                           interpriter                              |                      compiler                         |
-|:------------------------------------------------------------------:|:-----------------------------------------------------:|
+|:------:|:------:|
 |                take the statment and excute it                     |   takes the whole code and analyze it then excute it  |
 |              faster in analyzeing but slower at excuting           |   slower at analyzing code and faster in excuting     |
 |                             easier to debug                        |                   harder to debug                     |
@@ -12,21 +12,30 @@
 - What’s the difference between encryption and hashing?
 
 |               hashing                       |                encryption                         |
-|:-------------------------------------------:|:-------------------------------------------------:|
+|:----:|:----
 |        one way - can't be de-hashed         |          two ways - can be decrypted              |
 
 
 - What’s the difference between a socket and a port? [from this link](https://searchnetworking.techtarget.com/answer/What-is-the-difference-between-a-port-and-a-socket)
 
 |               socket                       |                port                         |
-|:-------------------------------------------:|:-------------------------------------------------:|
+|:----:|:----
 |        one end point of a connection         |          logical connection method two end points communicate with |
 |  means of plugging the application layer in | operate at the Transport layer of the OSI |
 | determined by an IP address and port number | 16-bit integer  |
 |  two-way communication link between two programs running on the network | identify a specific process to which a message is to be forwarded  |
 
+What is the difference between primary key and unique constraints?
+Ans: Primary key cannot have NULL value, the unique constraints can have NULL values. There is only one primary key in a table, but there can be multiple unique constrains.
 
-What is the difference between MVC and MVVC?
-| MVC | MVVC |
+| primary key | unique constraints |
 |---|---|
-| a way of separating concerns on the server-side | MVVC |
+| can't be null | can be null |
+| one in the table | can be many in the table |
+
+What is the difference between having and where clause?
+
+| HAVING clause | WHERE clause |
+|---|---|
+| used to specify a condition for a group or an aggregate function used in select statement | selects before grouping|
+| selects rows after grouping | cannot contain aggregate functions |
