@@ -1,6 +1,6 @@
 Theoretical questions:
 - What is design pattern ? example ?
-   as simpile as (copied) : design pattern is a general repeatable solution to a commonly occurring problem in software design; 
+   as simple as (copied) : design pattern is a general repeatable solution to a commonly occurring problem in software design; 
    
    
 Design Patterns Examples for nodeJs
