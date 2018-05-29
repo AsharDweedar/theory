@@ -25,3 +25,8 @@
 | determined by an IP address and port number | 16-bit integer  |
 |  two-way communication link between two programs running on the network | identify a specific process to which a message is to be forwarded  |
 
+
+What is the difference between MVC and MVVC?
+| MVC | MVVC |
+|---|---|
+| a way of separating concerns on the server-side | MVVC |
