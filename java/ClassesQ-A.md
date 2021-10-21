@@ -1,0 +1,22 @@
+- **What is a class and What is an Object?**
+
+- **What are the constraints we have on constructors?**
+
+Bean Validation constraints may be placed on the parameters of non-static methods and constructors and on the return values of non-static methods. Static methods and constructors will not be validated.
+
+- **What is function overloading?**
+
+which a class has more than one method of the same name and their parameters are different
+
+- **What is the main difference between overloading and overriding?**
+
+Overloading: When two or more methods in the same class have the same name but different parameters.
+Overriding: When the method signatures are the same in the superclass and the child class.
+
+- **What does it mean to have an abstract class?**
+
+You cannot instantiate them, and they may contain a mix of methods declared with or without an implementation. However, with abstract classes, you can declare fields that are not static and final, and define public, protected, and private concrete methods.
+
+- **What does it mean to have an abstract method?**
+
+An abstract method is a method that is declared without an implementation
