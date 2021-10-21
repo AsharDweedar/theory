@@ -28,10 +28,6 @@ https://stackoverflow.com/questions/1108/how-does-database-indexing-work
 
 https://www.youtube.com/watch?v=zDzu6vka0rQ
 
-- **OOP questions?**
-
-**Object-Oriented Programming** System (OOPs) is a programming concept that works on the principles of **abstraction, encapsulation, inheritance, and polymorphism**. It allows users to create objects they want and create methods to handle those objects. The basic concept of OOPs is to create objects, re-use them throughout the program, and manipulate these objects to get results.
-
 - **what is the difference between state and props?**
 
 e key difference between props and state is that state is internal and controlled by the component itself while props are external and controlled by whatever renders the component.
