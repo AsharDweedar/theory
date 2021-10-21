@@ -2,16 +2,6 @@
 
 authentication is the process of verifying who someone is, whereas authorization is the process of verifying what specific applications, files, and data a user has access to.
 
-- **Http methods?**
-
-POST, GET, PUT, PATCH, and DELETE.
-
-- **difference between Http & Https?**
-
-[differences-between-http-https](https://www.venafi.com/blog/what-are-differences-between-http-https-0)
-
-![](./img/Difference_HTTP_HTTPS-2.png)
-
 - **What is Database transaction?**
 
 A transaction, in the context of a database, is a logical unit that is independently executed for data retrieval or updates
