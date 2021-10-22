@@ -21,3 +21,7 @@
 - **what do we mean by protocol?**
 
   A protocol is a system of rules that define how data is exchanged within or between computers.
+
+- **How to send file in request?**
+
+- **How to send params in get request: “query params”?**
