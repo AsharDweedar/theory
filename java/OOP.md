@@ -17,3 +17,7 @@
 - **What is the difference between abstract classes and interfaces?**
 
   An abstract class allows you to create functionality that subclasses can implement or override. An interface only allows you to define functionality, not implement it. And whereas a class can extend only one abstract class, it can take advantage
+
+- **Difference between class and interface?**
+
+  A class describes the attributes and behaviors of an object. An interface contains behaviors that a class implements. A class may contain abstract methods, concrete methods. An interface contains only abstract methods.
