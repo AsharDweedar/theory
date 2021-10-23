@@ -1,12 +1,13 @@
 ## questions:
 
-- What is the “same-origin policy”?
+- **What are sockets?**
 
-     a web browser permits scripts contained in a first web page to access data in a second web page, but only if both web pages have the same origin
+  A socket is one endpoint of a two way communication link between two programs running on the network.
 
------------------
+  [sockets](https://docs.oracle.com/javase/tutorial/networking/sockets/definition.html)
 
-- What is Microservices Architecture?
+---
 
-     Essentially, microservice architecture is a method of developing software applications as a suite of independently deployable, small, modular services in which each service runs a unique process and communicates through a well-defined, lightweight mechanism to serve a business goal.
+- **What is Microservices Architecture?**
 
+  Essentially, microservice architecture is a method of developing software applications as a suite of independently deployable, small, modular services in which each service runs a unique process and communicates through a well-defined, lightweight mechanism to serve a business goal.

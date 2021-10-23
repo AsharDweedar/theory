@@ -18,12 +18,6 @@
 
   https://www.youtube.com/watch?v=zDzu6vka0rQ
 
-- **what is the difference between state and props?**
-
-  e key difference between props and state is that state is internal and controlled by the component itself while props are external and controlled by whatever renders the component.
-
-  Props and state are related. The state of one component will often become the props of a child component. Props are passed to the child within the render method of the parent
-
 - **What ORMs did you use? how are they useful?**
 
   "mongoose .. example" , **Object-relational mapping (ORM)** is a layer that converts our data between Database and object-oriented entities using object-oriented programming (OOP) language.
@@ -36,4 +30,6 @@
 
   A queryable object whose contents are defined by an aggregation pipeline on other collections or views.
 
--
+- **Sql query to get the fifth highest salary inside employees table**
+
+  sort data --> limit it to 5 --> take the fifth value.
