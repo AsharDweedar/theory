@@ -13,3 +13,7 @@
 - **What are middleware?**
 
   is a design pattern to add cross cutting concerns like without having many code contact points.
+
+- **Object Pooling** : an Object pool is a container which contains some amount of objects. So, when an object is taken from the pool, it is not available in the pool until it is put back.
+
+  [Object Pool Design Pattern](https://www.geeksforgeeks.org/object-pool-design-pattern/)
