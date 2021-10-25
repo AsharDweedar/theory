@@ -11,3 +11,5 @@
 - **What is event emitting, what are they called?**
 
   [emitting](https://stackoverflow.com/questions/13438924/what-is-an-event-emitter)
+
+- **How do you structure a new node/express server from scratch?**

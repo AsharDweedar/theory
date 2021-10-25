@@ -5,6 +5,7 @@
 [ ] Give a brief analogy explaining how computer memory works to a beginning programmer.
 [ ] What’s a “declarative” language?
 [ ] Benefits of using  arrow functions?
+[ ] How are promises used?
 ```
 
 ==================================================
@@ -27,3 +28,7 @@ any other language than imparative .. which depends on declaring operations with
 ---
 
 4- Arrow syntax automatically binds this to the surrounding code's context. The syntax allows an implicit return when there is no body block, resulting in shorter and simpler code in some cases
+
+---
+
+5- promises used to handle asynchronous operations in JavaScript. This lets asynchronous methods return values like synchronous methods: instead of immediately returning the final value, the asynchronous method returns a promise to supply the value at some point in the future.

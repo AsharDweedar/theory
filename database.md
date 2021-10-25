@@ -1,7 +1,3 @@
-- **difference between authentication & authorization?**
-
-  authentication is the process of verifying who someone is, whereas authorization is the process of verifying what specific applications, files, and data a user has access to.
-
 - **What is Database transaction?**
 
   A transaction, in the context of a database, is a logical unit that is independently executed for data retrieval or updates
